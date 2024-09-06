@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ResNet Image ClassificationSample (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ResNet Image ClassificationSample (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

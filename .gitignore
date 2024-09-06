@@ -396,3 +396,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/ImageClassificationSample/ImageClassificationSample/Models/resnet101-v1-7.onnx
